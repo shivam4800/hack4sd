@@ -1,0 +1,10 @@
+The Health19+ application!
+The interface that can help you out with all the health related queries,issues and emergencies!
+
+The portal revolves around redirecting the users to the required websites related to various schemes or health services.
+This is efficiently done using python's webbrowser module.
+The links of covid-19 updates from mapmyindia api sites are sent to user via sms with help sms4india module.
+The graphical user inteface has been created using tkinter.
+The user has been given the previlage of having 2 different languages-English and Hindi.
+The .exe file is the desktop app for same.
+Videos have been included.
